@@ -49,12 +49,12 @@ html {
     transition-timing-function: cubic-bezier(0.15, 3.02, 0.58, 1);
   }
   .hour-hand{
-    width: 39%;
+    width: 41%;
     height: 11px;
     background: black;
     position: absolute;
     transform-origin: 115%;
-    top: 52%;
+    top: 56%;
     
   }
 
