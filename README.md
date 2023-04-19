@@ -1,1 +1,1 @@
-# JS-and-Clock-JS-chahallenge
+# JS-and-Clock-JS-challenge
